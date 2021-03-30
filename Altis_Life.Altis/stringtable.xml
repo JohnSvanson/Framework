@@ -56,7 +56,7 @@
             <Czech>Bruceovy Outback Oblečení</Czech>
             <French>Vêtements de Bruce</French>
             <Spanish>Tienda de Ropa</Spanish>
-            <Russian></Russian>
+            <Russian>Магазин одежды</Russian>
             <Portuguese>Loja de Roupas</Portuguese>
             <Polish>Sklep odzieżowy</Polish>
             <Italian>Emporio di Bruce</Italian>
@@ -68,7 +68,7 @@
             <Czech>Altis policejní oddělení Shop</Czech>
             <French>Vêtements policiers</French>
             <Spanish>Tienda del Departamento de Policía</Spanish>
-            <Russian></Russian>
+            <Russian>Амуниция полиции</Russian>
             <Portuguese>Loja de Roupas Policiais</Portuguese>
             <Polish>Sklep Policyjny</Polish>
             <Italian>Dipartimento della Polizia di Altis</Italian>
@@ -81,7 +81,7 @@
             <French>Vêtements rebelle</French>
             <Spanish>Tienda Jihadi de Mohamed</Spanish>
             <Italian>Negozio della Jihad di Mohammed</Italian>
-            <Russian></Russian>
+            <Russian>Амуниция повстанцев</Russian>
             <Portuguese>Loja de Roupas Rebeldes</Portuguese>
             <Polish>Sklep samobójców AKBAR</Polish>
             <German>Mohammed's Ausrüstungen</German>
@@ -93,7 +93,7 @@
             <French>Vêtements de plongée de Steve</French>
             <Spanish>Tienda de Buceo</Spanish>
             <Italian>Negozio Sub di Steve</Italian>
-            <Russian></Russian>
+            <Russian>Магазин снаряжения для дайвинга</Russian>
             <German>Steve's Taucherausrüstung</German>
             <Portuguese>Loja de equipamentos para Mergulho</Portuguese>
             <Polish>Sklep dla nurków</Polish>
@@ -103,7 +103,7 @@
             <Original>Billy Joe's Clothing</Original>
             <Czech>Billy Joe oblečení</Czech>
             <Spanish>Tienda de Ropa de Billy Joe</Spanish>
-            <Russian></Russian>
+            <Russian>Магазин одежды</Russian>
             <German>Billy Joe's Bekleidung</German>
             <Italian>Emporio di Billy</Italian>
             <French>Vêtements de tir</French>
@@ -115,7 +115,7 @@
             <Original>Billy Joe's Firearms</Original>
             <Czech>Billy Joe Střelné zbraně</Czech>
             <Spanish>Tienda de Armas de Billy Joe</Spanish>
-            <Russian></Russian>
+            <Russian>Оружейный магазин</Russian>
             <German>Billy Joe's Schusswaffen</German>
             <Italian>Armeria di Billy Joe</Italian>
             <French>Armurerie de Billy Joe</French>
@@ -129,7 +129,7 @@
             <French>Vêtements de kart</French>
             <Spanish>Tienda de Trajes de Carreras</Spanish>
             <Italian>Vestiario da Pilota </Italian>
-            <Russian></Russian>
+            <Russian>Экиперовка картинг</Russian>
             <German>Bobby's Gokart Rennbekleidung</German>
             <Portuguese>Loja de equipamentos para Kart</Portuguese>
             <Polish>Sklep Kartingowy</Polish>
@@ -139,7 +139,7 @@
             <Original>Altis Market</Original>
             <Czech>Altis Market</Czech>
             <Spanish>Mercado de Altis</Spanish>
-            <Russian></Russian>
+            <Russian>Рынок</Russian>
             <German>Altis Markt</German>
             <Italian>Mercato</Italian>
             <French>Marché d'Altis</French>
@@ -151,7 +151,7 @@
             <Original>Rebel Market</Original>
             <Czech>Rebel Market</Czech>
             <Spanish>Mercado Rebelde</Spanish>
-            <Russian></Russian>
+            <Russian>Снаряжение повстанцев</Russian>
             <German>Rebellen Markt</German>
             <Italian>Mercato Ribelle</Italian>
             <French>Marché Rebelle</French>
@@ -163,7 +163,7 @@
             <Original>Gang Market</Original>
             <Czech>gang Market</Czech>
             <Spanish>Mercado Pandillero</Spanish>
-            <Russian></Russian>
+            <Russian>Провизия</Russian>
             <German>Gang Markt</German>
             <Italian>Mercato Gang</Italian>
             <French>Marché de Gang</French>
@@ -175,7 +175,7 @@
             <Original>Gang Clothing</Original>
             <Czech>gang Oblečení</Czech>
             <Spanish>Ropa Pandillera</Spanish>
-            <Russian></Russian>
+            <Russian>Одежда</Russian>
             <German>Gang Kleidung</German>
             <Italian>Gang Abbigliamento</Italian>
             <French>Vêtements de Gang</French>
@@ -187,7 +187,7 @@
             <Original>Wong's Food Cart</Original>
             <Czech>Wongova Food košík</Czech>
             <Spanish>Kiosko de Wong</Spanish>
-            <Russian></Russian>
+            <Russian>Лавка Вонга</Russian>
             <German>Wong's Spezialitäten</German>
             <Italian>Alimentari</Italian>
             <French>Restaurant de Wong</French>
@@ -199,7 +199,7 @@
             <Original>Gyro's Coffee</Original>
             <Czech>gyros Coffee</Czech>
             <Spanish>Cafetería de Gyro</Spanish>
-            <Russian></Russian>
+            <Russian>Кафе</Russian>
             <German>Gyro's Café</German>
             <Italian>Caffè</Italian>
             <French>Café de Gyro</French>
@@ -211,7 +211,7 @@
             <Original>Tonic's Narcotics</Original>
             <Czech>Tonic je narkotika</Czech>
             <Spanish>Narcotraficante</Spanish>
-            <Russian></Russian>
+            <Russian>Наркоторговец</Russian>
             <German>Drogendealer</German>
             <Italian>Spacciatore</Italian>
             <French>Dealeur de Drogue</French>
@@ -223,7 +223,7 @@
             <Original>Oil Trader</Original>
             <Czech>olej Trader</Czech>
             <Spanish>Comerciante de Petroleo</Spanish>
-            <Russian></Russian>
+            <Russian>Торговец нефтепродуктами</Russian>
             <German>Ölhändler</German>
             <Italian>Vendita Petrolio</Italian>
             <French>Acheteur de Pétrole</French>
@@ -235,7 +235,7 @@
             <Original>Local Fish Market</Original>
             <Czech>Místní Fish Market</Czech>
             <Spanish>Mercado Local del Pescado</Spanish>
-            <Russian></Russian>
+            <Russian>Магазин морепродуктов</Russian>
             <German>Fischmarkt</German>
             <Italian>Pescivendolo</Italian>
             <French>Marché de Poissons</French>
@@ -247,7 +247,7 @@
             <Original>Glass Trader</Original>
             <Czech>sklo Trader</Czech>
             <Spanish>Comerciante de Vidrio</Spanish>
-            <Russian></Russian>
+            <Russian>Торговец стеклом</Russian>
             <German>Glashändler</German>
             <Italian>Vendita Vetro</Italian>
             <French>Acheteur de Verre</French>
@@ -259,7 +259,7 @@
             <Original>Altis Industrial Trader</Original>
             <Czech>Altis Industrial Trader</Czech>
             <Spanish>Comerciante Industrial</Spanish>
-            <Russian></Russian>
+            <Russian>Торговая площадка</Russian>
             <German>Altis Industriehandel</German>
             <Italian>Vendita materiali industriali</Italian>
             <French>Acheteur de minerais</French>
@@ -271,7 +271,7 @@
             <Original>APD Item Shop</Original>
             <Czech>APD Item Shop</Czech>
             <Spanish>Equipamiento Policial</Spanish>
-            <Russian></Russian>
+            <Russian>Экиперовка полиции</Russian>
             <German>APD Ausrüstung</German>
             <Italian>Negozio Polizia</Italian>
             <French>Equipement policier</French>
@@ -283,7 +283,7 @@
             <Original>Juan's Cement Laying</Original>
             <Czech>Juanovo Cement Pokládka</Czech>
             <Spanish>Fabrica de Cemento de Juan</Spanish>
-            <Russian></Russian>
+            <Russian>Торговец цементом</Russian>
             <German>Juan's Zementleger</German>
             <Italian>Vendita Cemento</Italian>
             <French>Acheteur de Ciment</French>
@@ -295,7 +295,7 @@
             <Original>Cash 4 Gold</Original>
             <Czech>Peněžní 4 Gold</Czech>
             <Spanish>Comprador de Oro</Spanish>
-            <Russian></Russian>
+            <Russian>Торговец золотом</Russian>
             <German>Goldhändler</German>
             <Italian>Vendita Oro</Italian>
             <French>Acheteur d'Or</French>
@@ -307,7 +307,7 @@
             <Original>Diamond Dealer</Original>
             <Czech>Diamond Dealer</Czech>
             <Spanish>Comerciante de Diamantes</Spanish>
-            <Russian></Russian>
+            <Russian>Торговец драгоценными камнями</Russian>
             <German>Juwelier</German>
             <Italian>Gioielleria</Italian>
             <French>Acheteur de Diamant</French>
@@ -319,7 +319,7 @@
             <Original>Salt Trader</Original>
             <Czech>sůl Trader</Czech>
             <Spanish>Comerciante de Sal</Spanish>
-            <Russian></Russian>
+            <Russian>Торговец солью</Russian>
             <German>Salzhändler</German>
             <Italian>Vendita Sale</Italian>
             <French>Acheteur de Sel</French>
@@ -333,7 +333,7 @@
             <French>Café de la Station service</French>
             <Spanish>Cafeteria de Gasolinera</Spanish>
             <Italian>Stazione di Servizio</Italian>
-            <Russian></Russian>
+            <Russian>Магазин на заправке</Russian>
             <German>Tankstellen Café</German>
             <Portuguese>Loja de Conveniência</Portuguese>
             <Polish>Caffe OLLEN</Polish>
@@ -345,7 +345,7 @@
             <Original>Close</Original>
             <Czech>Zavřít</Czech>
             <Spanish>Cerrar</Spanish>
-            <Russian></Russian>
+            <Russian>Закрыть</Russian>
             <German>Schließen</German>
             <French>Fermer</French>
             <Italian>Chiudi</Italian>
@@ -357,7 +357,7 @@
             <Original>Sell</Original>
             <Czech>Prodat</Czech>
             <Spanish>Vender</Spanish>
-            <Russian></Russian>
+            <Russian>Продать</Russian>
             <German>Verkaufen</German>
             <French>Vendre</French>
             <Italian>Vendi</Italian>
@@ -369,7 +369,7 @@
             <Original>Buy</Original>
             <Czech>Koupit</Czech>
             <Spanish>Comprar</Spanish>
-            <Russian></Russian>
+            <Russian>Купить</Russian>
             <German>Kaufen</German>
             <French>Acheter</French>
             <Italian>Compra</Italian>
@@ -384,7 +384,7 @@
             <Spanish>Cargadores</Spanish>
             <Italian>Caricatori</Italian>
             <Polish>Magazyny</Polish>
-            <Russian></Russian>
+            <Russian>Магазин</Russian>
             <Portuguese>Munições</Portuguese>
             <German>Magazine</German>
 			<Chinesesimp>弹药</Chinesesimp>
@@ -396,7 +396,7 @@
             <Spanish>Accesorios</Spanish>
             <Italian>Accessori</Italian>
             <Polish>Akcesoria</Polish>
-            <Russian></Russian>
+            <Russian>Аксесуары</Russian>
             <Portuguese>Acessórios</Portuguese>
             <German>Zubehör</German>
 			<Chinesesimp>附件</Chinesesimp>
@@ -408,7 +408,7 @@
             <Spanish>Armas</Spanish>
             <Italian>Armi</Italian>
             <Polish>Broń</Polish>
-            <Russian></Russian>
+            <Russian>Оружие</Russian>
             <Portuguese>Armas</Portuguese>
             <German>Bewaffnung</German>
 			<Chinesesimp>武器</Chinesesimp>
@@ -417,7 +417,7 @@
             <Original>Give</Original>
             <Czech>Dát</Czech>
             <Spanish>Dar</Spanish>
-            <Russian></Russian>
+            <Russian>Передать</Russian>
             <German>Geben</German>
             <French>Donner</French>
             <Italian>Dai</Italian>
@@ -429,7 +429,7 @@
             <Original>Use</Original>
             <Czech>Použití</Czech>
             <Spanish>Usar</Spanish>
-            <Russian></Russian>
+            <Russian>Использовать</Russian>
             <German>Benutzen</German>
             <French>Utiliser</French>
             <Italian>Usa</Italian>
@@ -441,7 +441,7 @@
             <Original>Remove</Original>
             <Czech>Odstranit</Czech>
             <Spanish>Remover</Spanish>
-            <Russian></Russian>
+            <Russian>Выкинуть</Russian>
             <German>Entfernen</German>
             <French>Supprimer</French>
             <Italian>Rimuovi</Italian>
@@ -453,7 +453,7 @@
             <Original>Settings</Original>
             <Czech>Nastavení</Czech>
             <Spanish>Configuración</Spanish>
-            <Russian></Russian>
+            <Russian>Настройки</Russian>
             <German>Einstellungen</German>
             <French>Paramètres</French>
             <Italian>Impostazioni</Italian>
@@ -465,7 +465,7 @@
             <Original>Rent</Original>
             <Czech>Nájemné</Czech>
             <Spanish>Rentar</Spanish>
-            <Russian></Russian>
+            <Russian>Аренда</Russian>
             <German>Mieten</German>
             <French>Louer</French>
             <Italian>Affitta</Italian>
@@ -477,7 +477,7 @@
             <Original>Retrieve</Original>
             <Czech>získat</Czech>
             <Spanish>Recuperar</Spanish>
-            <Russian></Russian>
+            <Russian>Получить</Russian>
             <German>Ausparken</German>
             <French>Récupérer</French>
             <Italian>Ritira</Italian>
@@ -489,7 +489,7 @@
             <Original>You did not select anything.</Original>
             <Czech>Nevybrali jste nic.</Czech>
             <Spanish>No seleccionastes algo.</Spanish>
-            <Russian></Russian>
+            <Russian>Вы ничего не выбрали.</Russian>
             <German>Du hast nichts ausgewählt.</German>
             <French>Vous n'avez rien sélectionné.</French>
             <Italian>Non hai selezionato nulla.</Italian>
@@ -501,7 +501,7 @@
             <Original>Yes</Original>
             <Czech>Ano</Czech>
             <Spanish>Si</Spanish>
-            <Russian></Russian>
+            <Russian>Да</Russian>
             <German>Ja</German>
             <French>Oui</French>
             <Italian>Si</Italian>
@@ -513,7 +513,7 @@
             <Original>No</Original>
             <Czech>Ne</Czech>
             <Spanish>No</Spanish>
-            <Russian></Russian>
+            <Russian>Нет</Russian>
             <German>Nein</German>
             <French>Non</French>
             <Italian>No</Italian>
@@ -525,7 +525,7 @@
             <Original>Cancel</Original>
             <Czech>Zrušit</Czech>
             <Spanish>Cancelar</Spanish>
-            <Russian></Russian>
+            <Russian>Отмена</Russian>
             <German>Abbrechen</German>
             <French>Annuler</French>
             <Italian>Annulla</Italian>
@@ -539,7 +539,7 @@
             <Original>Admin Menu</Original>
             <Czech>Nabídka admin</Czech>
             <Spanish>Menu de Admin</Spanish>
-            <Russian></Russian>
+            <Russian>Админ</Russian>
             <German>Admin Menü</German>
             <Italian>Menu Admin</Italian>
             <French>Menu Admin</French>
@@ -553,7 +553,7 @@
             <French>Entrez le montant à rembourser </French>
             <Spanish>Pon la cantidad que quieres compensar:</Spanish>
             <Italian>Inserire l'importo da rimborsare:</Italian>
-            <Russian></Russian>
+            <Russian>Сумма, которую вы хотите начислить:</Russian>
             <German>Trage den Wert für die Entschädigung ein:</German>
             <Portuguese>Coloque a quantidade que você quer compensar:</Portuguese>
             <Polish>Wprowadź wartość rekompensaty</Polish>
@@ -563,7 +563,7 @@
             <Original>Get ID</Original>
             <Czech>Získat ID</Czech>
             <Spanish>Ver ID</Spanish>
-            <Russian></Russian>
+            <Russian>Узнать ID</Russian>
             <German>ID abfragen</German>
             <French>Obtenir ID</French>
             <Italian>Vedi ID</Italian>
@@ -576,7 +576,7 @@
             <Czech>spectate</Czech>
             <Spanish>Observar</Spanish>
             <Italian>Osserva</Italian>
-            <Russian></Russian>
+            <Russian>Наблюдать</Russian>
             <German>Zuschauen</German>
             <French>Regarder</French>
             <Portuguese>Observar</Portuguese>
@@ -588,7 +588,7 @@
             <Czech>Teleport</Czech>
             <Spanish>Teleport</Spanish>
             <Italian>Teleport</Italian>
-            <Russian></Russian>
+            <Russian>Телепорт</Russian>
             <German>Teleport</German>
             <French>Téléporter</French>
             <Portuguese>Teleportar</Portuguese>
@@ -600,7 +600,7 @@
             <Czech>TP Zde</Czech>
             <Spanish>TP Aquí</Spanish>
             <Italian>TP Qui</Italian>
-            <Russian></Russian>
+            <Russian>TP сюда</Russian>
             <German>TP Hier</German>
             <French>TP Ici</French>
             <Portuguese>TP Aqui</Portuguese>
@@ -615,7 +615,7 @@
             <Italian>Il giocatore non può essere teletrasportato perché in un veicolo.</Italian>
             <Polish>Nie można teleportować gracza tutaj, ponieważ są one wewnątrz pojazdu.</Polish>
             <Portuguese>Você não pode se teletransportar o jogador aqui, porque ele esta dentro de um veículo.</Portuguese>
-            <Russian>Вы не можете телепортировать игрока здесь, потому что они находятся внутри автомобиля.</Russian>
+            <Russian>Вы не можете телепортировать игрока сюда, потому что он находятся в ТС.</Russian>
             <German>Du kannst den Spieler nicht hierher teleportieren, weil dieser im Inneren eines Fahrzeugs sitzt.</German>
 			<Chinesesimp>你不能将玩家传送到这里，因为他们在车内。</Chinesesimp>
         </Key>
@@ -624,7 +624,7 @@
             <Czech>Ladit</Czech>
             <Spanish>Debug</Spanish>
             <Italian>Debug</Italian>
-            <Russian></Russian>
+            <Russian>Отладка</Russian>
             <German>Debug</German>
             <French>Debug</French>
             <Portuguese>Depuração</Portuguese>
@@ -636,7 +636,7 @@
             <Czech>Comp</Czech>
             <Spanish>Comp</Spanish>
             <Italian>Comp</Italian>
-            <Russian></Russian>
+            <Russian>Компенсация</Russian>
             <German>Entschädigen</German>
             <French>Compenser</French>
             <Portuguese>Compensar</Portuguese>
@@ -648,7 +648,7 @@
             <Czech>Božský mód</Czech>
             <Spanish>Modo Dios</Spanish>
             <Italian>GodMode</Italian>
-            <Russian></Russian>
+            <Russian>Режим бога</Russian>
             <German>Gott-Mod</German>
             <French>God</French>
             <Portuguese>Modo Deus</Portuguese>
@@ -660,7 +660,7 @@
             <Czech>Zmrazit</Czech>
             <Spanish>Congelar</Spanish>
             <Italian>Congelare</Italian>
-            <Russian></Russian>
+            <Russian>Заморозить</Russian>
             <German>Einfrieren</German>
             <French>Freeze</French>
             <Portuguese>Congelar</Portuguese>
@@ -672,7 +672,7 @@
             <Czech>markery</Czech>
             <Spanish>Marcadores</Spanish>
             <Italian>Indicatori</Italian>
-            <Russian></Russian>
+            <Russian>Маркеры</Russian>
             <German>Spieler Markierungen</German>
             <French>Marqueurs</French>
             <Portuguese>Marcações</Portuguese>
