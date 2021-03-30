@@ -5,7 +5,7 @@
             <Original>Setting up client, please wait...</Original>
             <Czech></Czech>
             <Spanish>Configurando cliente. Por favor espere...</Spanish>
-            <Russian></Russian>
+            <Russian>Настройка клиента, пожалуйста, подождите...</Russian>
             <German>Einrichten des Clients, bitte warten...</German>
             <Italian>Caricamento dati, attendi...</Italian>
             <French>Configuration du client. Patientez s'il vous plait...</French>
@@ -17,7 +17,7 @@
             <Original>Waiting for the server to be ready...</Original>
             <Czech></Czech>
             <Spanish>Esperando a que el servidor esté listo...</Spanish>
-            <Russian></Russian>
+            <Russian>Ожидайте... Идет загрузка клиента...</Russian>
             <German>Warten, bis der Server bereit ist...</German>
             <Italian>Caricamento Server, attendi...</Italian>
             <French>En attente du chargement du serveur...</French>
@@ -29,7 +29,7 @@
             <Original>extDB failed to load, please contact an administrator.</Original>
             <Czech></Czech>
             <Spanish>extDB no se pudo cargar, por favor contacte a un administrador.</Spanish>
-            <Russian></Russian>
+            <Russian>Загрузка клиента не удалась. Пожалуйста, свяжитесь с администратором...</Russian>
             <German>extDB konnte nicht geladen werden, wenden Sie sich bitte an einen Administrator.</German>
             <Italian>C'è stato un'errore con extDB, perfavore contatta un amministratore.</Italian>
             <French>extDB ne s'est pas lancé correctement. Veuillez contacter un administrateur.</French>
@@ -41,7 +41,7 @@
             <Original>Finishing client setup procedure...</Original>
             <Czech></Czech>
             <Spanish>Finalizando configuración del cliente...</Spanish>
-            <Russian></Russian>
+            <Russian>Окончание загрузки клиента...</Russian>
             <French>Finalisation de la procédure de configuration du client...</French>
             <German>Fertigstellen der Client-Einrichtungs-Prozedur...</German>
             <Italian>Completando procedura d'inizializzazione </Italian>
